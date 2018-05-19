@@ -1,0 +1,11 @@
+* {
+	padding: 2%;
+}
+
+a {
+	text-decoration: none;
+}
+.completed {
+	text-decoration: line-through;
+	color: gray;
+}
